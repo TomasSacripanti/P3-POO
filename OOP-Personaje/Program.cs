@@ -32,23 +32,12 @@
 //El primero tiene que recibir una lista de todos los personajes instanciados y hacerlos atacar.
 //El segundo recibe un objeto que implementa IMoverse y los hace moverse en el eje X y en el Y. Hacer que en program reciba algunos personajes y un enemigo para probar.
 
-namespace PersonajeEjercicio
+namespace Personaje
 {
     public class Program
     {
         public static void Main()
         {
-            List<Persona> personas = new();
-
-            for (var i = 0; i < 3; i++)
-            {
-                Console.WriteLine($"Ingrese el nombre {i + 1}: ");
-                personas.Add(new Persona(Console.ReadLine()));
-            }
-            foreach (var persona in personas)
-            {
-                Console.WriteLine(persona.ToString());
-            }
 
         }
     }
