@@ -14,13 +14,18 @@
 //Crear un álbum de fotos con 24 páginas y mostrar el número de páginas
 //Crear un álbum de fotos grande y mostrar el número de páginas
 
-namespace LibroDeFotos
+namespace OOP_LibroDeFotos
 {
     public class Program
     {
         public static void Main()
         {
-
+            PhotoBook defaultPhotoBook = new();
+            PhotoBook altPhotoBook = new(24);
+            BigPhotoBook bigPhotoBook = new();
+            defaultPhotoBook.GetNumberPages();
+            altPhotoBook.GetNumberPages();
+            bigPhotoBook.GetNumberPages();
         }
     }
 }

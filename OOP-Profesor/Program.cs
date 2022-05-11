@@ -23,13 +23,23 @@
 //Crear un nuevo Profesor, establecer una edad, decir hola y comenzar la explicación.
 
 
-namespace Profesor
+namespace OOP_Profesor
 {
     public class Program
     {
         public static void Main()
         {
-
+            Persona persona = new();
+            Estudiante estudiante = new();
+            Profesor profesor = new();
+            persona.Saludar();
+            estudiante.SetEdad(19);
+            estudiante.Saludar();
+            estudiante.MostrarEdad();
+            profesor.SetEdad(40);
+            profesor.Saludar();
+            profesor.Explicar();
+            estudiante.Estudiar();
         }
     }
 }

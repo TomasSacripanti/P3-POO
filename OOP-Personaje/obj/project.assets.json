@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-Personaje\\OOP-Personaje.csproj",
+      "projectUniqueName": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-Personaje\\OOP-Personaje.csproj",
       "projectName": "OOP-Personaje",
-      "projectPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-Personaje\\OOP-Personaje.csproj",
+      "projectPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-Personaje\\OOP-Personaje.csproj",
       "packagesPath": "C:\\Users\\Tomás\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-Personaje\\obj\\",
+      "outputPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-Personaje\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomás\\AppData\\Roaming\\NuGet\\NuGet.Config",

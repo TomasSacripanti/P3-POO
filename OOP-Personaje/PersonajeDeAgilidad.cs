@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Personaje
+namespace Personajes
 {
     internal class PersonajeDeAgilidad : Personaje
     {
@@ -17,12 +17,12 @@ namespace Personaje
         }
         public override int CalcularDanio()
         {
-            return agilidad * (fuerza / 2) * (magia / 2);
+            return (fuerza / 2) * agilidad * (magia / 2);
         }
         public override void Atacar()
         {
             int x = CalcularDanio();
-            Console.WriteLine($"{ nombre} hizo { x} de daño");
+            Console.WriteLine($"{ nombre} hizo {x} de daño");
         }
     }
 }

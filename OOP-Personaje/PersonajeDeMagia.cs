@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Personaje
+namespace Personajes
 {
     internal class PersonajeDeMagia : Personaje
     {
@@ -29,7 +29,7 @@ namespace Personaje
         public override void Atacar()
         {
             int x = CalcularDanio();
-            Console.WriteLine($"{ nombre} hizo { x} de daño gracias a su magia");
+            Console.WriteLine($"{ nombre} hizo {x} de daño gracias a su magia");
         }
     }
 }

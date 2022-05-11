@@ -7,18 +7,19 @@
 //y los Métodos:
 //CalcularDanio()
 //Atacar()
-//El método abstracto CalcularDanio y Atacar muestra por consola: “{ nombre}
-//hizo
-//{ x}
-//de daño”. Donde x es el daño calculado.
+
+//El método abstracto CalcularDanio y Atacar muestra por consola: “{ nombre} hizo { x} de daño”. Donde x es el daño calculado.
 
 //Crear una clase llamada PersonajeDeFuerza, que implemente a Personaje.
-//Crear un constructor para PersonajeDeFuerza que reciba los tres atributos de parámetro y se los asigne a Nombre Agilidad y Magia respectivamente. Fuerza estará por defecto en 100. CalcularDanio que calcula el daño en base a una fórmula que involucra las 3 propiedades (queda a imaginación de ustedes)
+//Crear un constructor para PersonajeDeFuerza que reciba los tres atributos de parámetro y se los asigne a Nombre Agilidad y Magia respectivamente. Fuerza estará por defecto en 100.
+//CalcularDanio que calcula el daño en base a una fórmula que involucra las 3 propiedades (queda a imaginación de ustedes)
 
-//Crear una clase llamada PersonajeDeAgilidad que tenga un constructor que reciba los 4 atributos como parámetro. Al atacar debe implementar el método CalcularDanio() y utilizar la fórmula Fuerza/2*Agilidad*Magia/2 para calcular el daño.
-//Crear una clase llamada PersonajeDeMagia que tenga 2 constructores, uno que reciba los 4 atributos como parámetro y otro que reciba 3 y le ponga el atributo magia en 60 por defecto. Al atacar debe sobreescribir el método Atacar() para que diga: “{ nombre}
-//hizo
-//{ x}
+//Crear una clase llamada PersonajeDeAgilidad que tenga un constructor que reciba los 4 atributos como parámetro.
+//Al atacar debe implementar el método CalcularDanio() y utilizar la fórmula Fuerza/2*Agilidad*Magia/2 para calcular el daño.
+
+//Crear una clase llamada PersonajeDeMagia que tenga 2 constructores, uno que reciba los 4 atributos
+//como parámetro y otro que reciba 3 y le ponga el atributo magia en 60 por defecto.
+//Al atacar debe sobreescribir el método Atacar() para que diga: “{ nombre} hizo { x}
 //de daño gracias a su magia” y utilizar la fórmula Fuerza+Agilidad+Magia*4 para calcular el daño.
 
 //Crear una clase Enemigo que tenga vida y nivel.
@@ -32,13 +33,22 @@
 //El primero tiene que recibir una lista de todos los personajes instanciados y hacerlos atacar.
 //El segundo recibe un objeto que implementa IMoverse y los hace moverse en el eje X y en el Y. Hacer que en program reciba algunos personajes y un enemigo para probar.
 
-namespace Personaje
+namespace Personajes
 {
     public class Program
     {
         public static void Main()
         {
-
+            PersonajeDeFuerza garen = new("Garen", 30, 10);
+            PersonajeDeMagia syndra = new("Syndra", 20, 50, 800);
+            PersonajeDeAgilidad riven = new("Riven", 45, 100, 20);
+            Enemigo darius = new("Darius", 1000, 10);
+            List<Personaje> campeones = new();
+            campeones.Add(garen);
+            campeones.Add(syndra);
+            campeones.Add(riven);
+            Turno.Atacarse(campeones);
+            Turno.MoverFichas(darius);
         }
     }
 }

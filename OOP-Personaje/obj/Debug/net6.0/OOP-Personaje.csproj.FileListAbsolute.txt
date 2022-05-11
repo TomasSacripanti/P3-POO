@@ -1,0 +1,15 @@
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\bin\Debug\net6.0\OOP-Personaje.exe
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\bin\Debug\net6.0\OOP-Personaje.deps.json
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\bin\Debug\net6.0\OOP-Personaje.runtimeconfig.json
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\bin\Debug\net6.0\OOP-Personaje.dll
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\bin\Debug\net6.0\OOP-Personaje.pdb
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.csproj.AssemblyReference.cache
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.AssemblyInfoInputs.cache
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.AssemblyInfo.cs
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.csproj.CoreCompileInputs.cache
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.dll
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\obj\Debug\net6.0\refint\OOP-Personaje.dll
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.pdb
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.genruntimeconfig.cache
+C:\Users\Tomás\Desktop\UTN\3er Cuatrimestre\Programación 3\practica\OOP-Practica2\OOP-Personaje\obj\Debug\net6.0\ref\OOP-Personaje.dll

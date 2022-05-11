@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-Persona\\OOP-Persona.csproj": {}
+    "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-Persona\\OOP-Persona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-Persona\\OOP-Persona.csproj": {
+    "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-Persona\\OOP-Persona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-Persona\\OOP-Persona.csproj",
+        "projectUniqueName": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-Persona\\OOP-Persona.csproj",
         "projectName": "OOP-Persona",
-        "projectPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-Persona\\OOP-Persona.csproj",
+        "projectPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-Persona\\OOP-Persona.csproj",
         "packagesPath": "C:\\Users\\Tomás\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-Persona\\obj\\",
+        "outputPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-Persona\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tomás\\AppData\\Roaming\\NuGet\\NuGet.Config",

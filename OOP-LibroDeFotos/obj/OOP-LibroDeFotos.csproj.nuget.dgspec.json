@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-LibroDeFotos\\OOP-LibroDeFotos.csproj": {}
+    "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-LibroDeFotos\\OOP-LibroDeFotos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-LibroDeFotos\\OOP-LibroDeFotos.csproj": {
+    "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-LibroDeFotos\\OOP-LibroDeFotos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-LibroDeFotos\\OOP-LibroDeFotos.csproj",
+        "projectUniqueName": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-LibroDeFotos\\OOP-LibroDeFotos.csproj",
         "projectName": "OOP-LibroDeFotos",
-        "projectPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-LibroDeFotos\\OOP-LibroDeFotos.csproj",
+        "projectPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-LibroDeFotos\\OOP-LibroDeFotos.csproj",
         "packagesPath": "C:\\Users\\Tomás\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Personaje\\OOP-LibroDeFotos\\obj\\",
+        "outputPath": "C:\\Users\\Tomás\\Desktop\\UTN\\3er Cuatrimestre\\Programación 3\\practica\\OOP-Practica2\\OOP-LibroDeFotos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tomás\\AppData\\Roaming\\NuGet\\NuGet.Config",

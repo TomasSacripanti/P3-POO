@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Personaje
+namespace Personajes
 {
     internal class PersonajeDeFuerza : Personaje
     {
